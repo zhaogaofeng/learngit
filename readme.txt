@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 如果要强制禁用Fast forward模式，Git就会在merge时生成一个新的commit，这样，从分支历史上就可以看出分支信息。
 
 下面我们实战一下--no-ff方式的git merge：
+Git is a free software ..
